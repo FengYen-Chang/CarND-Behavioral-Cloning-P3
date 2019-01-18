@@ -1,5 +1,5 @@
 # Behavioral Cloning Project
-The complete project of Self-Driving Car Engineer Nanodegree Program. I done the assignment at winter, 2018. I just upload this in to github.
+The complete project of Self-Driving Car Engineer Nanodegree Program. I done the assignment at Jan, 2019. I just upload this in to github.
 
 # Model
 You can download the variable data via [here](https://drive.google.com/file/d/1ovxcRl95gj5PhG-CwiFns2Pl_5Wmt8Sn/view?usp=sharing).
